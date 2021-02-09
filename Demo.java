@@ -5,5 +5,6 @@ public class Demo {
         int b=26;
         System.out.println("result" + (a+b));
         System.out.println("added");
+        System.out.println("Hello welcome to the training");
     }
 }
