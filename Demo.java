@@ -4,8 +4,6 @@ public class Demo {
         int a=100;
         int b=26;
         System.out.println("result" + (a+b));
-        System.out.println("Added a new line in testing branch");
-        System.out.println("Added");
-
+        System.out.println("added");
     }
 }
