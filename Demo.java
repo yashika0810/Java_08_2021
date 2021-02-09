@@ -3,8 +3,7 @@ public class Demo {
         System.out.println("Hello Consultadd");
         int a=100;
         int b=26;
-        System.out.println("result" + (a*b));
-        System.out.println("multiplication");
-        System.out.println("Hello welcome to the training");
+        System.out.println("result is " + (a*b));
+
     }
 }
