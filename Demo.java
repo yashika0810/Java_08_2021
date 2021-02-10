@@ -4,6 +4,6 @@ public class Demo {
         int a=100;
         int b=26;
         System.out.println("result is " + (a*b));
-
+        System.out.println("Adding a new line");
     }
 }
